@@ -1,2 +1,3 @@
 # memo
-This is for self memo
+This is for self memo.
+
